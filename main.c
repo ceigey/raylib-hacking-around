@@ -46,7 +46,7 @@ int main(void)
             };
 
             TextToDraw guide = {
-                "Move the ball witht he arrow keys",
+                "Move the ball with the arrow keys",
                 { 10, 10 },
                 { 20, DARKGRAY }
             };
