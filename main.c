@@ -1,4 +1,4 @@
-#include "raylib.h"
+#include "lib/raylib.h"
 #include "silly-structs.h"
 
 int main(void)

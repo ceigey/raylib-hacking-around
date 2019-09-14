@@ -1,1 +1,1 @@
-clang -framework CoreVideo -framework IOKit -framework Cocoa -framework GLUT -framework OpenGL  libraylib.a main.c -o my-game
+clang -framework CoreVideo -framework IOKit -framework Cocoa -framework GLUT -framework OpenGL  lib/libraylib.a main.c -o my-game

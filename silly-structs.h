@@ -1,7 +1,7 @@
 #ifndef SILLY_STRUCTS_H
 #define SILLY_STRUCTS_H
 
-#include "raylib.h"
+#include "lib/raylib.h"
 
 typedef struct _pos {
   int x;
